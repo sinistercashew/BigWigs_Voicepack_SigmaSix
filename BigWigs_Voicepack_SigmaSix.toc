@@ -1,0 +1,7 @@
+## Interface: 90105
+## Title: BigWigs Voicepack: Sigma Six
+## Dependencies: BigWigs
+## Version: 1.0.0
+## Author: Cashew
+
+Core.lua
